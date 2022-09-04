@@ -76,7 +76,7 @@ https://www.artstation.com/artofsoulburn
 
 # **John Berkey**
 https://conceptartworld.com/artists/john-berkey-1932-2008/
-> **TAGS:** concept, digital, landscapes, painted, dark, characters
+> **TAGS:** concept, digital, landscapes, painted, dark, characters, scifi
 
 <br>
 
@@ -93,8 +93,46 @@ https://conceptartworld.com/artists/john-berkey-1932-2008/
 <br>
 <br>
 
+# **Raphael Lacoste**
+https://www.raphael-lacoste.com/projects
+> **TAGS:** concept, digital, landscapes, painted
+
+<br>
+
+## **Originals**
+![Raphael Lacoste](../static/artist_styles/raphael_lacoste_src.png)
+
+
+## **prompt**: `path through cavern landscape Raphael Lacoste`
+![Raphael Lacoste Cavern Path](../static/artist_styles/raphael_lacoste_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
+# **Martin Deschambault**
+https://www.artstation.com/dechambo
+> **TAGS:** concept, digital, landscapes, painted, ubisoft, fantasy, scifi
+
+<br>
+
+## **Originals**
+![Martin Deschambault](../static/artist_styles/martin_deschambault_src.png)
+
+
+## **prompt**: `path through cavern landscape Martin Deschambault`
+![Martin Deschambault Cavern Path](../static/artist_styles/martin_deschambault_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # **Peter Draws**
-https://www.instagram.com/samdoesarts
+https://www.peterdraws.com/
 
 > **TAGS:** 
 
@@ -134,6 +172,25 @@ https://www.instagram.com/samdoesarts
 <br>
 <br>
 
+# **Bill Peet**
+http://www.billpeet.net/
+> **TAGS:** 
+
+<br>
+
+## **Originals**
+![Bill Peet](../static/artist_styles/bill_peet_src.png)
+
+
+## **prompt**: `path through cavern landscape Bill Peet`
+![Bill Peet Cavern Path](../static/artist_styles/bill_peet_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # John William Waterhouse
 https://en.wikipedia.org/wiki/John_William_Waterhouse
 > **TAGS:** academic style, painted, mythology, 
@@ -152,6 +209,15 @@ https://en.wikipedia.org/wiki/John_William_Waterhouse
 
 # **Salvador Dali**
 > **TAGS:** abstract, sureal
+
+<br>
+
+## **Originals**
+![Salvador Dali](../static/artist_styles/salvador_dali_src.png)
+
+
+## **prompt**: `path through cavern landscape Salvador Dali`
+![Salvador Dali Cavern Path](../static/artist_styles/salvador_dali_cavern_path.png)
 
 
 <br>
