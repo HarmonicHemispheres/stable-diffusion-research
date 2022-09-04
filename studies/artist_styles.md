@@ -131,6 +131,25 @@ https://www.artstation.com/dechambo
 <br>
 <br>
 
+# **Seb McKinnon**
+https://www.sebmckinnon.com/
+> **TAGS:** concept, digital, landscapes, painted, fantasy, scifi
+
+<br>
+
+## **Originals**
+![Seb McKinnon](../static/artist_styles/seb_mckinnon_src.png)
+
+
+## **prompt**: `path through cavern landscape Seb McKinnon`
+![Seb McKinnon Cavern Path](../static/artist_styles/seb_mckinnon_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # **Peter Draws**
 https://www.peterdraws.com/
 
