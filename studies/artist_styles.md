@@ -1,4 +1,4 @@
-# Styles 
+# The Ultimate Study of Artist Styles Portrayed by Stable Diffusion 
 this study reviews artists original styles and and the effect of stable diffusion. this experiment looked at artists in isolation as best as possible to see how 1 artist, a simple prompt and stable diffusion would yield results. my source images and word tags associated with artists i find foundationally inspirational both for ai generated art i enjoy the results of as well as styles i try to replicate through my own sketches and paintings.
 
 A note on the generated content below is that perception based selection was used to pick out visually interesting pictures rather then taking exactly what was generated from a first pass. that is why seed numbers are not referenced in many cases below. the goal was to show what is possible using influence from each artist rather then simply what the first generated image would be. 
@@ -93,6 +93,47 @@ https://conceptartworld.com/artists/john-berkey-1932-2008/
 <br>
 <br>
 
+# **Peter Draws**
+https://www.instagram.com/samdoesarts
+
+> **TAGS:** 
+
+<br>
+
+## **Originals**
+![Peter Draws](../static/artist_styles/peter_draws_src.png)
+
+
+## **prompt**: `path through cavern landscape peter draws`
+![Peter Draws Cavern Path](../static/artist_styles/peter_draws_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
+# **Sam Does Art**
+https://www.instagram.com/samdoesarts
+
+> **TAGS:** 
+
+<br>
+
+## **Originals**
+![Sam Does Art](../static/artist_styles/sam_does_art_src.png)
+
+
+## **prompt**: `path through cavern landscape Sam Does Art`
+> **NOTE:** this was a great example of a famous social media based artist who was "likely" not included in the training dataset. The model appears to have simply ignored the artist name in the prompt and attempted to generated the content conveyed by the other words.
+![Sam Does Art Cavern Path](../static/artist_styles/sam_does_art_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # John William Waterhouse
 https://en.wikipedia.org/wiki/John_William_Waterhouse
 > **TAGS:** academic style, painted, mythology, 
@@ -121,6 +162,14 @@ https://en.wikipedia.org/wiki/John_William_Waterhouse
 
 # **Leonardo da Vinci**
 > **TAGS:** 
+
+## **Originals**
+![Leonardo da Vinci](../static/artist_styles/leonardo_da_vinci_src.png)
+
+
+## **prompt**: `path through cavern landscape leonardo da vinci`
+![Leonardo da Vinci Cavern Path](../static/artist_styles/leonardo_da_vinci_cavern_path.png)
+
 
 
 <br>
