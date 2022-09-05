@@ -150,6 +150,25 @@ https://www.sebmckinnon.com/
 <br>
 <br>
 
+# **Matthew Stewart**
+http://www.matthew-stewart.com/
+> **TAGS:** concept, digital, landscapes, painted, fantasy
+
+<br>
+
+## **Originals**
+![Matthew Stewart](../static/artist_styles/matthew_stewart_src.png)
+
+
+## **prompt**: `path through cavern landscape Matthew Stewart`
+![Matthew Stewart Cavern Path](../static/artist_styles/matthew_stewart_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # **Peter Draws**
 https://www.peterdraws.com/
 
@@ -255,6 +274,38 @@ https://en.wikipedia.org/wiki/John_William_Waterhouse
 ## **prompt**: `path through cavern landscape leonardo da vinci`
 ![Leonardo da Vinci Cavern Path](../static/artist_styles/leonardo_da_vinci_cavern_path.png)
 
+<br>
+<br>
+<br>
+<br>
+
+
+# **Hubert Robert**
+> **TAGS:** 
+
+## **Originals**
+![Hubert Robert](../static/artist_styles/hubert_robert_src.png)
+
+
+## **prompt**: `path through cavern landscape Hubert Robert`
+![Hubert Robert Cavern Path](../static/artist_styles/hubert_robert_cavern_path.png)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+# **HR Giger**
+> **TAGS:** 
+
+## **Originals**
+...
+
+
+## **prompt**: `path through cavern landscape hr giger`
+...
 
 
 <br>
