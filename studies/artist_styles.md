@@ -41,6 +41,22 @@ https://www.artstation.com/tyleredlinart
 <br>
 <br>
 
+# **Trent Kaniuga**
+https://www.artstation.com/trentkaniuga
+> **TAGS:** concept, digital, game, colorful
+> 
+## **Originals**
+![Trent Kaniuga](../static/artist_styles/trent_kaniuga_src.png)
+
+## **prompt**: `path through cavern landscape Trent Kaniuga`
+![Trent Kaniuga Cavern Path](../static/artist_styles/trent_kaniuga_cavern_path.png)
+
+
+<br>
+<br>
+<br>
+<br>
+
 # **Ian McQue**
 > **TAGS:** concept, digital, landscapes, painted
 
@@ -305,6 +321,55 @@ https://en.wikipedia.org/wiki/John_William_Waterhouse
 
 
 ## **prompt**: `path through cavern landscape hr giger`
+...
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+# **Ugarte**
+> **TAGS:** 
+
+## **Originals**
+...
+
+
+## **prompt**: `path through cavern landscape ugarte`
+...
+
+
+<br>
+<br>
+<br>
+<br>
+
+# **Vincent van Gogh**
+> **TAGS:** 
+
+## **Originals**
+...
+
+
+## **prompt**: `path through cavern landscape Van Gogh`
+...
+
+
+<br>
+<br>
+<br>
+<br>
+
+# **Eyvind Earle**
+> **TAGS:** 
+
+## **Originals**
+...
+
+
+## **prompt**: `path through cavern landscape Eyvind Earle`
 ...
 
 

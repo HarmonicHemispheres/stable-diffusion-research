@@ -1,3 +1,7 @@
+![](./static/banner.png)
+
+<BR>
+
 # Stable Diffusion Art Research and Findings
 > a collection of commands, programs, findings, studies and reference material for making art with stable diffusion
 
@@ -13,5 +17,8 @@ The goal of this project is to performa a number of studies using stable diffusi
 - [Useful Commands](commands.md)
 - Studies
   - [Artist Styles](studies/artist_styles.md)
+  - [Artist Style Combos](./studies/artist_combos.md)
+  - [Prompts & Inputs](./studies/prompts.md)
+  - [Film, TV and Game Styles](./studies/film_tv_styles.md)
 - [Results and Process](result_and_process.md)
 - [Tips](tips.md)
