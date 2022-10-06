@@ -20,13 +20,15 @@
 <br>
 
 # Styles
-### Artists
-- any artist name
-
 
 ### Renders
 - octane render
 - cycles render
+- painterly
+- digital
+- concept
+- origami
+- logo \ icon
 
 
 <br>
